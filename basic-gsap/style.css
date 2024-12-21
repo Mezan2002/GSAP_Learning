@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+  background-color: #111;
+  color: #fff;
+}
+#box1 {
+  height: 300px;
+  width: 300px;
+  background: coral;
+}
+#box2 {
+  height: 300px;
+  width: 300px;
+  background: lightgreen;
+}
